@@ -1,8 +1,8 @@
-package me.dev.Main;
+package me.dev.Arrow;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import me.dev.Main.Listeners.ArrowListeners;
+import me.dev.Arrow.Listeners.ArrowListeners;
 
 public class Main extends JavaPlugin {
 	
